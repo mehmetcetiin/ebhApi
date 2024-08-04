@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\migrations\\20240618011253_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\migrations\\20240618011253_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\controllers\\basvurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\controllers\\basvurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\models\\sube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\models\\sube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\models\\ebhbasvurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\models\\ebhbasvurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\models\\hastalik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\models\\hastalik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\models\\ekip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\models\\ekip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|c:\\users\\mehmetcetin\\desktop\\yeni klas\u00F6r\\ebh\\ebhapi\\ebhapi\\ebhapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB2DBBE0-AD9B-4565-B503-1E120A5DDEFA}|ebhApi\\ebhApi.csproj|solutionrelative:ebhapi\\ebhapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240618011253_MyMigration.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Migrations\\20240618011253_MyMigration.cs",
+              "RelativeDocumentMoniker": "ebhApi\\Migrations\\20240618011253_MyMigration.cs",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Migrations\\20240618011253_MyMigration.cs",
+              "RelativeToolTip": "ebhApi\\Migrations\\20240618011253_MyMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T01:12:59.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ekip.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Models\\Ekip.cs",
+              "RelativeDocumentMoniker": "ebhApi\\Models\\Ekip.cs",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Models\\Ekip.cs",
+              "RelativeToolTip": "ebhApi\\Models\\Ekip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:33:21.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ebhApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Models\\User.cs",
+              "RelativeToolTip": "ebhApi\\Models\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:26:29.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ebhApi\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Data\\DataContext.cs",
+              "RelativeToolTip": "ebhApi\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:24:29.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasvuruController.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Controllers\\BasvuruController.cs",
+              "RelativeDocumentMoniker": "ebhApi\\Controllers\\BasvuruController.cs",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Controllers\\BasvuruController.cs",
+              "RelativeToolTip": "ebhApi\\Controllers\\BasvuruController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:27:11.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EbhBasvurular.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Models\\EbhBasvurular.cs",
+              "RelativeDocumentMoniker": "ebhApi\\Models\\EbhBasvurular.cs",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Models\\EbhBasvurular.cs",
+              "RelativeToolTip": "ebhApi\\Models\\EbhBasvurular.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wCAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:13:28.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Program.cs",
+              "RelativeDocumentMoniker": "ebhApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Program.cs",
+              "RelativeToolTip": "ebhApi\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAuwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:43:01.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ebhApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\appsettings.json",
+              "RelativeToolTip": "ebhApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T23:42:22.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ebhApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\appsettings.Development.json",
+              "RelativeToolTip": "ebhApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T19:23:58.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hastalik.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Models\\Hastalik.cs",
+              "RelativeDocumentMoniker": "ebhApi\\Models\\Hastalik.cs",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Models\\Hastalik.cs",
+              "RelativeToolTip": "ebhApi\\Models\\Hastalik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:30:37.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sube.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Models\\Sube.cs",
+              "RelativeDocumentMoniker": "ebhApi\\Models\\Sube.cs",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Models\\Sube.cs",
+              "RelativeToolTip": "ebhApi\\Models\\Sube.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:33:38.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ebhApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ebhApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAuwIgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T21:48:54.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ebhApi.csproj",
+              "DocumentMoniker": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\ebhApi.csproj",
+              "RelativeDocumentMoniker": "ebhApi\\ebhApi.csproj",
+              "ToolTip": "C:\\Users\\mehmetcetin\\Desktop\\Yeni klas\u00F6r\\ebh\\ebhApi\\ebhApi\\ebhApi.csproj",
+              "RelativeToolTip": "ebhApi\\ebhApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T23:55:27.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
